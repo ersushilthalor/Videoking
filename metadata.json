@@ -1,0 +1,6 @@
+{
+  "name": "ProCam Video",
+  "description": "Professional video-only camera with custom iPhone-inspired GPU video processing engine, Camera2 API lens control, and MediaCodec SDR encoding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
